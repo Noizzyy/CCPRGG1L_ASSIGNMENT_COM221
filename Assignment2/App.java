@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AppOrder {
+public class App {
 
     // Scanner Object
     static Scanner scan = new Scanner(System.in);
